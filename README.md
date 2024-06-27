@@ -1,5 +1,3 @@
-Apologies for the misunderstanding. Here's the original README, exactly as you phrased it:
-
 ## BEFORE YOU PROCEED
 
 - ##### MPU6050 is old, noisy and the documentation SUCKS, go for other IMUs. If you have a MPU6050 lying and just wanna tinker with it, then fine.
